@@ -1,0 +1,17 @@
+.details{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    border: 2px solid black;
+    margin: 10px;
+}
+.details-img1{
+    border: 2px solid black;
+    margin: 10px;
+    height: 300px;
+    width: 300px;
+    flex-wrap: wrap;
+}
+/* .details-but1{
+    background-color:#FF9F00;
+} */

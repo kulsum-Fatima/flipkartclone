@@ -1,0 +1,1 @@
+export const manipulateCart=(type,payload)=>({type,payload});

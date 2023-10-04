@@ -36,3 +36,42 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+
+
+.App {
+  text-align: center;
+}
+
+.imgContainer{
+  border: 1px solid hsl(0, 100%, 50%);
+  display: flex;
+  justify-content: space-around;
+  /* width:"10px" */
+  align-items: center;
+}
+.cardCss{
+  /* padding: 10px; */
+  /* margin: 10px;
+  height:"2%" ;
+  width:"50px";
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap; */
+  border: 2px solid black;
+
+}
+.css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input{
+     padding: 5px 5px !important;
+
+}
+.css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root{
+  top:-10px !important;
+  
+}
+/* .css-1d3z3hw-MuiOutlinedInput-notchedOutline{
+
+} */
+
